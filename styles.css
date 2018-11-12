@@ -6,7 +6,8 @@ body, html {
 .bg {
     /* The image used */
     background-image: url("ocean.jpg");
-    filter: blur(2px);
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
 
     /* Full height */
     height: 100%; 
