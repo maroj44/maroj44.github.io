@@ -1,13 +1,17 @@
 body, html {
-	height: 100%;
-	margin: 0;
+    height: 100%;
+    margin: 0;
 }
 
 .bg {
-	background-image: url("ocean.jpg");
-	height: 100%;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: cover;
+    /* The image used */
+    background-image: url("ocean.jpg");
 
-}s
+    /* Full height */
+    height: 100%; 
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
