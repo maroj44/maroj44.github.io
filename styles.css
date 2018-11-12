@@ -1,5 +1,5 @@
-body {
-	background-image: "ocean.jpg";
+#outerBoarder {
+	background-image: url("ocean.jpg");
 }
 
 h1 {
