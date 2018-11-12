@@ -1,4 +1,4 @@
-/*.bg {
+.bg {
 	background-image: url("ocean.jpg");
 	height: 100%;
 	background-position: center;
@@ -11,4 +11,4 @@ h1 {
 	font-size: 48;
 	color: blue;
 	font-family: Helvetica;
-}*/
+}
