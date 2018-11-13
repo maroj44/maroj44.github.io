@@ -17,3 +17,27 @@ body, html {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+.box {
+	top: 40%;
+	left: 50%;
+	color: white;
+	width: 40%;
+	padding: 0px;
+	text-align: center;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	border: 3px solid #f1f1f1;
+	background-color: rgba(0,0,0, 0.2);
+}
+
+.logo {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 60px;
+}
+ 
+	
+.slogan {
+	font-family: Impact, Charcoal, sans-serif;
+	font-size: 20px;
+}
